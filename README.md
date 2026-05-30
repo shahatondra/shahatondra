@@ -1,4 +1,4 @@
-<h2 align="center">Hi,👋 I'm <i>Tondra Shaha</i></h2>
+<h2 align="center">👋 Hi there <br>I'm <i>Tondra Shaha</i></h2>
 
 # <h3>💫 About Me: </h3>
 - I'm currently learning C programming
